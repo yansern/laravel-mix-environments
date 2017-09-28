@@ -7,6 +7,11 @@
 * `mix.inDevelopment()` returns true when `NODE_ENV` is set to `development`.
 * `mix.inTest()` returns true when `NODE_ENV` is set to `test`.
 
+## Installation
+```bash
+$ npm install laravel-mix-environments
+```
+
 ## Usage
 Inside your `webpack.mix.js` file, import **laravel-mix-environments** after importing **laravel-mix** and start using them.
 
