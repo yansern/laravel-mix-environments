@@ -1,7 +1,24 @@
 {
   "name": "laravel-mix-environments",
   "description": "Adds mix.inDevelopment() & mix.inTest() to Laravel Mix.",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yansern/laravel-mix-environments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yansern/laravel-mix-environments/issues"
+  },
+  "keywords": [
+    "laravel",
+    "webpack",
+    "laravel elixir",
+    "laravel mix",
+    "development",
+    "test",
+    "node_env",
+    "enviroments"
+  ],
   "author": "Yan Sern <hey@yansern.io>",
   "main": "laravel-mix-environments.js",
   "license": "MIT",
