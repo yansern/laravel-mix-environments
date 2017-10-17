@@ -1,7 +1,7 @@
 {
   "name": "laravel-mix-environments",
   "description": "Adds mix.inDevelopment() & mix.inTest() to Laravel Mix.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yansern/laravel-mix-environments.git"
@@ -24,7 +24,7 @@
   "license": "MIT",
   "homepage": "https://github.com/yansern/laravel-mix-environments",
   "peerDependencies": {
-    "laravel-mix": "^1.4.5"
+    "laravel-mix": "^1.4.0"
   },
   "engines": {
     "node": ">=6.0.0"
